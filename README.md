@@ -3,7 +3,7 @@ Conjunto de scripts de post-instalación para diferentes distribuciones de Linux
 
 Modo de uso:
 
-wget https://raw.githubusercontent.com/wnpower/Linux-Config/master/configure_linux.sh && bash configure_linux.sh
+wget https://raw.githubusercontent.com/gdlservers/Centos/main/configure_centos.sh && bash configure_linux.sh
 Aviso de finalización a un e-mail:
 
-wget https://raw.githubusercontent.com/wnpower/Linux-Config/master/configure_linux.sh && bash configure_linux.sh --notify-email=cuenta@dominio.com
+wget https://raw.githubusercontent.com/gdlservers/Centos/main/configure_centos.sh && bash configure_linux.sh --notify-email=cuenta@dominio.com
